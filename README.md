@@ -9,5 +9,5 @@
 ---
 
 ## Link
-- [库连接](https://github.com/Cnohares/OpenFusionThings_cn)
+- [本库连接](https://github.com/Cnohares/OpenFusionThings_cn)
 - [访问页面连接](https://cnohares.github.io/OpenFusionThings_cn/)
